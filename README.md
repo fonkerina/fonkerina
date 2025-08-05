@@ -1,5 +1,5 @@
-## 
-Hi 👋
+Hi!
+
 I'm Jessica, a BSc Physics Graduate ⚛️
 
 Currently: 
