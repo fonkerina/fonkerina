@@ -1,8 +1,9 @@
-## Hi 👋
-
+## 
+Hi 👋
 I'm Jessica, a BSc Physics Graduate ⚛️
 
-Currently working on: An individual Microplastic Pollution Tracking and Communication project
+Currently: 
+- Working on... *An individual Microplastic Pollution Tracking and Communication project*
 - 🌱 Learning geopandas, GIS software, C++ and web development/system architecture.
 - 👯 Open to collaboration and criticism
 
