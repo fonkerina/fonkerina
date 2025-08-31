@@ -27,7 +27,6 @@ Currently:
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fonkerina&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=fonkerina&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fonkerina&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
