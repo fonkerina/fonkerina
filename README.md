@@ -4,7 +4,7 @@ I'm Jessica, a BSc Physics Graduate ⚛️
 
 Currently: 
 - Working on... *A Microplastic Pollution Tracking and Communication project*
-- 🌱 Learning geopandas, GIS software, C++ and web development/system architecture.
+- 🌱 Learning geopandas, GIS software, C and web development/system architecture.
 - 👯 Open to collaboration and criticism
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/link3dinpark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-fonka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jfonka4@outlook.com) 
